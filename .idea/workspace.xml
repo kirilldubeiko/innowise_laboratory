@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78e6b3fc-4b78-4200-8d81-b7cfe808aea0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_1/venv/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_1/venv/Scripts/Activate.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_1/venv/Scripts/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_1/venv/Scripts/activate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_1/venv/Scripts/activate.fish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_1/venv/Scripts/deactivate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_1/venv/Scripts/pip.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_1/venv/Scripts/pip3.13.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_1/venv/Scripts/pip3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_1/venv/Scripts/python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_1/venv/Scripts/pythonw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_1/venv/pyvenv.cfg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +47,7 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "feature/main-logic"
   }
 }]]></component>
@@ -43,6 +55,7 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\innowise_laboratory\lecture_1" />
       <recent name="C:\innowise_laboratory\lecture_1\venv" />
+      <recent name="C:\innowise_laboratory" />
     </key>
   </component>
   <component name="SharedIndexes">
